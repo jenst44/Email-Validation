@@ -1,0 +1,37 @@
+* {
+	background-color: #FF9C28;
+	font-family: sans-serif;
+	color:black;
+	text-align: center;
+}
+
+.validationDiv {
+	padding: 20px;
+	border: 5px solid #891F93;
+	display: inline-block;
+	margin:20px;
+
+}
+
+h5 {
+	color:red;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td, th{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+input {
+	background-color: white;
+	text-align: left;
+}
+
+#addressBox {
+	max-height: 700px;
+	overflow: scroll;
+}
